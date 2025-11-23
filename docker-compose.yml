@@ -1,0 +1,66 @@
+services:
+  web:
+    build: .
+    command: daphne -b 0.0.0.0 -p ${DEV_PORT} ${PROJECT_NAME}.asgi:application
+    volumes:
+      - .:/code
+      - ./static:/app/static
+      - ./media:/app/media
+    ports:
+      - "${DEV_PORT}:${DEV_PORT}"
+    env_file:
+      - .env
+    depends_on:
+      - redis
+      - db
+    environment:
+      - CELERY_BROKER_URL=redis://redis:${REDIS_PORT}/0
+      - CELERY_RESULT_BACKEND=redis://redis:${REDIS_PORT}/0
+    restart: unless-stopped
+
+  redis:
+    image: redis:7
+    command: ["redis-server", "--port", "${REDIS_PORT}"]
+    restart: unless-stopped
+
+  db:
+    image: postgres:17
+    environment:
+      POSTGRES_DB: ${DB_NAME}
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASS}
+    command: postgres -c port=${DB_PORT}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  celery:
+    build: .
+    command: celery -A ${PROJECT_NAME} worker --loglevel=info
+    volumes:
+      - .:/code
+    depends_on:
+      - redis
+      - db
+    environment:
+      - PROJECT_NAME=${PROJECT_NAME}
+      - CELERY_BROKER_URL=redis://redis:${REDIS_PORT}/0
+      - CELERY_RESULT_BACKEND=redis://redis:${REDIS_PORT}/0
+    restart: unless-stopped
+
+  celery-beat:
+    build: .
+    command: celery -A ${PROJECT_NAME} beat --loglevel=info
+    volumes:
+      - .:/code
+    depends_on:
+      - redis
+      - db
+    environment:
+      - PROJECT_NAME=${PROJECT_NAME}
+      - CELERY_BROKER_URL=redis://redis:${REDIS_PORT}/0
+      - CELERY_RESULT_BACKEND=redis://redis:${REDIS_PORT}/0
+    restart: unless-stopped
+
+volumes:
+  postgres_data:

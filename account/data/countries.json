@@ -1,0 +1,2018 @@
+[
+  {
+    "type": "header",
+    "version": "5.2.0",
+    "comment": "Export to JSON plugin"
+  },
+  {
+    "type": "database",
+    "name": "evokulu"
+  },
+  {
+    "type": "table",
+    "name": "tbl_countries",
+    "database": "evokulu",
+    "data": [
+      {
+        "id": "1",
+        "name": "Afghanistan",
+        "phoneCode": "93",
+        "emojiU": "U+1F1E6 U+1F1EB",
+        "native": "افغانستان",
+        "iso_code": "AF"
+      },
+      {
+        "id": "2",
+        "name": "Aland Islands",
+        "phoneCode": "+358-18",
+        "emojiU": "U+1F1E6 U+1F1FD",
+        "native": "Åland",
+        "iso_code": "AX"
+      },
+      {
+        "id": "3",
+        "name": "Albania",
+        "phoneCode": "355",
+        "emojiU": "U+1F1E6 U+1F1F1",
+        "native": "Shqipëria",
+        "iso_code": "AL"
+      },
+      {
+        "id": "4",
+        "name": "Algeria",
+        "phoneCode": "213",
+        "emojiU": "U+1F1E9 U+1F1FF",
+        "native": "الجزائر",
+        "iso_code": "DZ"
+      },
+      {
+        "id": "5",
+        "name": "American Samoa",
+        "phoneCode": "+1-684",
+        "emojiU": "U+1F1E6 U+1F1F8",
+        "native": "American Samoa",
+        "iso_code": "AS"
+      },
+      {
+        "id": "6",
+        "name": "Andorra",
+        "phoneCode": "376",
+        "emojiU": "U+1F1E6 U+1F1E9",
+        "native": "Andorra",
+        "iso_code": "AD"
+      },
+      {
+        "id": "7",
+        "name": "Angola",
+        "phoneCode": "244",
+        "emojiU": "U+1F1E6 U+1F1F4",
+        "native": "Angola",
+        "iso_code": "AO"
+      },
+      {
+        "id": "8",
+        "name": "Anguilla",
+        "phoneCode": "+1-264",
+        "emojiU": "U+1F1E6 U+1F1EE",
+        "native": "Anguilla",
+        "iso_code": "AI"
+      },
+      {
+        "id": "9",
+        "name": "Antarctica",
+        "phoneCode": "672",
+        "emojiU": "U+1F1E6 U+1F1F6",
+        "native": "Antarctica",
+        "iso_code": "AQ"
+      },
+      {
+        "id": "10",
+        "name": "Antigua And Barbuda",
+        "phoneCode": "+1-268",
+        "emojiU": "U+1F1E6 U+1F1EC",
+        "native": "Antigua and Barbuda",
+        "iso_code": "AG"
+      },
+      {
+        "id": "11",
+        "name": "Argentina",
+        "phoneCode": "54",
+        "emojiU": "U+1F1E6 U+1F1F7",
+        "native": "Argentina",
+        "iso_code": "AR"
+      },
+      {
+        "id": "12",
+        "name": "Armenia",
+        "phoneCode": "374",
+        "emojiU": "U+1F1E6 U+1F1F2",
+        "native": "Հայաստան",
+        "iso_code": "AM"
+      },
+      {
+        "id": "13",
+        "name": "Aruba",
+        "phoneCode": "297",
+        "emojiU": "U+1F1E6 U+1F1FC",
+        "native": "Aruba",
+        "iso_code": "AW"
+      },
+      {
+        "id": "14",
+        "name": "Australia",
+        "phoneCode": "61",
+        "emojiU": "U+1F1E6 U+1F1FA",
+        "native": "Australia",
+        "iso_code": "AU"
+      },
+      {
+        "id": "15",
+        "name": "Austria",
+        "phoneCode": "43",
+        "emojiU": "U+1F1E6 U+1F1F9",
+        "native": "Österreich",
+        "iso_code": "AT"
+      },
+      {
+        "id": "16",
+        "name": "Azerbaijan",
+        "phoneCode": "994",
+        "emojiU": "U+1F1E6 U+1F1FF",
+        "native": "Azərbaycan",
+        "iso_code": "AZ"
+      },
+      {
+        "id": "17",
+        "name": "Bahrain",
+        "phoneCode": "973",
+        "emojiU": "U+1F1E7 U+1F1ED",
+        "native": "‏البحرين",
+        "iso_code": "BH"
+      },
+      {
+        "id": "18",
+        "name": "Bangladesh",
+        "phoneCode": "880",
+        "emojiU": "U+1F1E7 U+1F1E9",
+        "native": "Bangladesh",
+        "iso_code": "BD"
+      },
+      {
+        "id": "19",
+        "name": "Barbados",
+        "phoneCode": "+1-246",
+        "emojiU": "U+1F1E7 U+1F1E7",
+        "native": "Barbados",
+        "iso_code": "BB"
+      },
+      {
+        "id": "20",
+        "name": "Belarus",
+        "phoneCode": "375",
+        "emojiU": "U+1F1E7 U+1F1FE",
+        "native": "Белару́сь",
+        "iso_code": "BY"
+      },
+      {
+        "id": "21",
+        "name": "Belgium",
+        "phoneCode": "32",
+        "emojiU": "U+1F1E7 U+1F1EA",
+        "native": "België",
+        "iso_code": "BE"
+      },
+      {
+        "id": "22",
+        "name": "Belize",
+        "phoneCode": "501",
+        "emojiU": "U+1F1E7 U+1F1FF",
+        "native": "Belize",
+        "iso_code": "BZ"
+      },
+      {
+        "id": "23",
+        "name": "Benin",
+        "phoneCode": "229",
+        "emojiU": "U+1F1E7 U+1F1EF",
+        "native": "Bénin",
+        "iso_code": "BJ"
+      },
+      {
+        "id": "24",
+        "name": "Bermuda",
+        "phoneCode": "+1-441",
+        "emojiU": "U+1F1E7 U+1F1F2",
+        "native": "Bermuda",
+        "iso_code": "BM"
+      },
+      {
+        "id": "25",
+        "name": "Bhutan",
+        "phoneCode": "975",
+        "emojiU": "U+1F1E7 U+1F1F9",
+        "native": "ʼbrug-yul",
+        "iso_code": "BT"
+      },
+      {
+        "id": "26",
+        "name": "Bolivia",
+        "phoneCode": "591",
+        "emojiU": "U+1F1E7 U+1F1F4",
+        "native": "Bolivia",
+        "iso_code": "BO"
+      },
+      {
+        "id": "27",
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "phoneCode": "599",
+        "emojiU": "U+1F1E7 U+1F1F6",
+        "native": "Caribisch Nederland",
+        "iso_code": "BQ"
+      },
+      {
+        "id": "28",
+        "name": "Bosnia and Herzegovina",
+        "phoneCode": "387",
+        "emojiU": "U+1F1E7 U+1F1E6",
+        "native": "Bosna i Hercegovina",
+        "iso_code": "BA"
+      },
+      {
+        "id": "29",
+        "name": "Botswana",
+        "phoneCode": "267",
+        "emojiU": "U+1F1E7 U+1F1FC",
+        "native": "Botswana",
+        "iso_code": "BW"
+      },
+      {
+        "id": "30",
+        "name": "Bouvet Island",
+        "phoneCode": "0055",
+        "emojiU": "U+1F1E7 U+1F1FB",
+        "native": "Bouvetøya",
+        "iso_code": "BV"
+      },
+      {
+        "id": "31",
+        "name": "Brazil",
+        "phoneCode": "55",
+        "emojiU": "U+1F1E7 U+1F1F7",
+        "native": "Brasil",
+        "iso_code": "BR"
+      },
+      {
+        "id": "32",
+        "name": "British Indian Ocean Territory",
+        "phoneCode": "246",
+        "emojiU": "U+1F1EE U+1F1F4",
+        "native": "British Indian Ocean Territory",
+        "iso_code": "IO"
+      },
+      {
+        "id": "33",
+        "name": "Brunei",
+        "phoneCode": "673",
+        "emojiU": "U+1F1E7 U+1F1F3",
+        "native": "Negara Brunei Darussalam",
+        "iso_code": "BN"
+      },
+      {
+        "id": "34",
+        "name": "Bulgaria",
+        "phoneCode": "359",
+        "emojiU": "U+1F1E7 U+1F1EC",
+        "native": "България",
+        "iso_code": "BG"
+      },
+      {
+        "id": "35",
+        "name": "Burkina Faso",
+        "phoneCode": "226",
+        "emojiU": "U+1F1E7 U+1F1EB",
+        "native": "Burkina Faso",
+        "iso_code": "BF"
+      },
+      {
+        "id": "36",
+        "name": "Burundi",
+        "phoneCode": "257",
+        "emojiU": "U+1F1E7 U+1F1EE",
+        "native": "Burundi",
+        "iso_code": "BI"
+      },
+      {
+        "id": "37",
+        "name": "Cambodia",
+        "phoneCode": "855",
+        "emojiU": "U+1F1F0 U+1F1ED",
+        "native": "Kâmpŭchéa",
+        "iso_code": "KH"
+      },
+      {
+        "id": "38",
+        "name": "Cameroon",
+        "phoneCode": "237",
+        "emojiU": "U+1F1E8 U+1F1F2",
+        "native": "Cameroon",
+        "iso_code": "CM"
+      },
+      {
+        "id": "39",
+        "name": "Canada",
+        "phoneCode": "1",
+        "emojiU": "U+1F1E8 U+1F1E6",
+        "native": "Canada",
+        "iso_code": "CA"
+      },
+      {
+        "id": "40",
+        "name": "Cape Verde",
+        "phoneCode": "238",
+        "emojiU": "U+1F1E8 U+1F1FB",
+        "native": "Cabo Verde",
+        "iso_code": "CV"
+      },
+      {
+        "id": "41",
+        "name": "Cayman Islands",
+        "phoneCode": "+1-345",
+        "emojiU": "U+1F1F0 U+1F1FE",
+        "native": "Cayman Islands",
+        "iso_code": "KY"
+      },
+      {
+        "id": "42",
+        "name": "Central African Republic",
+        "phoneCode": "236",
+        "emojiU": "U+1F1E8 U+1F1EB",
+        "native": "Ködörösêse tî Bêafrîka",
+        "iso_code": "CF"
+      },
+      {
+        "id": "43",
+        "name": "Chad",
+        "phoneCode": "235",
+        "emojiU": "U+1F1F9 U+1F1E9",
+        "native": "Tchad",
+        "iso_code": "TD"
+      },
+      {
+        "id": "44",
+        "name": "Chile",
+        "phoneCode": "56",
+        "emojiU": "U+1F1E8 U+1F1F1",
+        "native": "Chile",
+        "iso_code": "CL"
+      },
+      {
+        "id": "45",
+        "name": "China",
+        "phoneCode": "86",
+        "emojiU": "U+1F1E8 U+1F1F3",
+        "native": "中国",
+        "iso_code": "CN"
+      },
+      {
+        "id": "46",
+        "name": "Christmas Island",
+        "phoneCode": "61",
+        "emojiU": "U+1F1E8 U+1F1FD",
+        "native": "Christmas Island",
+        "iso_code": "CX"
+      },
+      {
+        "id": "47",
+        "name": "Cocos (Keeling) Islands",
+        "phoneCode": "61",
+        "emojiU": "U+1F1E8 U+1F1E8",
+        "native": "Cocos (Keeling) Islands",
+        "iso_code": "CC"
+      },
+      {
+        "id": "48",
+        "name": "Colombia",
+        "phoneCode": "57",
+        "emojiU": "U+1F1E8 U+1F1F4",
+        "native": "Colombia",
+        "iso_code": "CO"
+      },
+      {
+        "id": "49",
+        "name": "Comoros",
+        "phoneCode": "269",
+        "emojiU": "U+1F1F0 U+1F1F2",
+        "native": "Komori",
+        "iso_code": "KM"
+      },
+      {
+        "id": "50",
+        "name": "Congo",
+        "phoneCode": "242",
+        "emojiU": "U+1F1E8 U+1F1EC",
+        "native": "République du Congo",
+        "iso_code": "CG"
+      },
+      {
+        "id": "51",
+        "name": "Cook Islands",
+        "phoneCode": "682",
+        "emojiU": "U+1F1E8 U+1F1F0",
+        "native": "Cook Islands",
+        "iso_code": "CK"
+      },
+      {
+        "id": "52",
+        "name": "Costa Rica",
+        "phoneCode": "506",
+        "emojiU": "U+1F1E8 U+1F1F7",
+        "native": "Costa Rica",
+        "iso_code": "CR"
+      },
+      {
+        "id": "53",
+        "name": "Cote D\\'Ivoire (Ivory Coast)",
+        "phoneCode": "225",
+        "emojiU": "U+1F1E8 U+1F1EE",
+        "native": "",
+        "iso_code": "CI"
+      },
+      {
+        "id": "54",
+        "name": "Croatia",
+        "phoneCode": "385",
+        "emojiU": "U+1F1ED U+1F1F7",
+        "native": "Hrvatska",
+        "iso_code": "HR"
+      },
+      {
+        "id": "55",
+        "name": "Cuba",
+        "phoneCode": "53",
+        "emojiU": "U+1F1E8 U+1F1FA",
+        "native": "Cuba",
+        "iso_code": "CU"
+      },
+      {
+        "id": "56",
+        "name": "Curaçao",
+        "phoneCode": "599",
+        "emojiU": "U+1F1E8 U+1F1FC",
+        "native": "Curaçao",
+        "iso_code": "CW"
+      },
+      {
+        "id": "57",
+        "name": "Cyprus",
+        "phoneCode": "357",
+        "emojiU": "U+1F1E8 U+1F1FE",
+        "native": "Κύπρος",
+        "iso_code": "CY"
+      },
+      {
+        "id": "58",
+        "name": "Czech Republic",
+        "phoneCode": "420",
+        "emojiU": "U+1F1E8 U+1F1FF",
+        "native": "Česká republika",
+        "iso_code": "CZ"
+      },
+      {
+        "id": "59",
+        "name": "Democratic Republic of the Congo",
+        "phoneCode": "243",
+        "emojiU": "U+1F1E8 U+1F1E9",
+        "native": "République démocratique du Congo",
+        "iso_code": "CD"
+      },
+      {
+        "id": "60",
+        "name": "Denmark",
+        "phoneCode": "45",
+        "emojiU": "U+1F1E9 U+1F1F0",
+        "native": "Danmark",
+        "iso_code": "DK"
+      },
+      {
+        "id": "61",
+        "name": "Djibouti",
+        "phoneCode": "253",
+        "emojiU": "U+1F1E9 U+1F1EF",
+        "native": "Djibouti",
+        "iso_code": "DJ"
+      },
+      {
+        "id": "62",
+        "name": "Dominica",
+        "phoneCode": "+1-767",
+        "emojiU": "U+1F1E9 U+1F1F2",
+        "native": "Dominica",
+        "iso_code": "DM"
+      },
+      {
+        "id": "63",
+        "name": "Dominican Republic",
+        "phoneCode": "+1-809 and 1-829",
+        "emojiU": "U+1F1E9 U+1F1F4",
+        "native": "República Dominicana",
+        "iso_code": "DO"
+      },
+      {
+        "id": "64",
+        "name": "East Timor",
+        "phoneCode": "670",
+        "emojiU": "U+1F1F9 U+1F1F1",
+        "native": "Timor-Leste",
+        "iso_code": "TL"
+      },
+      {
+        "id": "65",
+        "name": "Ecuador",
+        "phoneCode": "593",
+        "emojiU": "U+1F1EA U+1F1E8",
+        "native": "Ecuador",
+        "iso_code": "EC"
+      },
+      {
+        "id": "66",
+        "name": "Egypt",
+        "phoneCode": "20",
+        "emojiU": "U+1F1EA U+1F1EC",
+        "native": "مصر‎",
+        "iso_code": "EG"
+      },
+      {
+        "id": "67",
+        "name": "El Salvador",
+        "phoneCode": "503",
+        "emojiU": "U+1F1F8 U+1F1FB",
+        "native": "El Salvador",
+        "iso_code": "SV"
+      },
+      {
+        "id": "68",
+        "name": "Equatorial Guinea",
+        "phoneCode": "240",
+        "emojiU": "U+1F1EC U+1F1F6",
+        "native": "Guinea Ecuatorial",
+        "iso_code": "GQ"
+      },
+      {
+        "id": "69",
+        "name": "Eritrea",
+        "phoneCode": "291",
+        "emojiU": "U+1F1EA U+1F1F7",
+        "native": "ኤርትራ",
+        "iso_code": "ER"
+      },
+      {
+        "id": "70",
+        "name": "Estonia",
+        "phoneCode": "372",
+        "emojiU": "U+1F1EA U+1F1EA",
+        "native": "Eesti",
+        "iso_code": "EE"
+      },
+      {
+        "id": "71",
+        "name": "Ethiopia",
+        "phoneCode": "251",
+        "emojiU": "U+1F1EA U+1F1F9",
+        "native": "ኢትዮጵያ",
+        "iso_code": "ET"
+      },
+      {
+        "id": "72",
+        "name": "Falkland Islands",
+        "phoneCode": "500",
+        "emojiU": "U+1F1EB U+1F1F0",
+        "native": "Falkland Islands",
+        "iso_code": "FK"
+      },
+      {
+        "id": "73",
+        "name": "Faroe Islands",
+        "phoneCode": "298",
+        "emojiU": "U+1F1EB U+1F1F4",
+        "native": "Føroyar",
+        "iso_code": "FO"
+      },
+      {
+        "id": "74",
+        "name": "Fiji Islands",
+        "phoneCode": "679",
+        "emojiU": "U+1F1EB U+1F1EF",
+        "native": "Fiji",
+        "iso_code": "FJ"
+      },
+      {
+        "id": "75",
+        "name": "Finland",
+        "phoneCode": "358",
+        "emojiU": "U+1F1EB U+1F1EE",
+        "native": "Suomi",
+        "iso_code": "FI"
+      },
+      {
+        "id": "76",
+        "name": "France",
+        "phoneCode": "33",
+        "emojiU": "U+1F1EB U+1F1F7",
+        "native": "France",
+        "iso_code": "FR"
+      },
+      {
+        "id": "77",
+        "name": "French Guiana",
+        "phoneCode": "594",
+        "emojiU": "U+1F1EC U+1F1EB",
+        "native": "Guyane française",
+        "iso_code": "GF"
+      },
+      {
+        "id": "78",
+        "name": "French Polynesia",
+        "phoneCode": "689",
+        "emojiU": "U+1F1F5 U+1F1EB",
+        "native": "Polynésie française",
+        "iso_code": "PF"
+      },
+      {
+        "id": "79",
+        "name": "French Southern Territories",
+        "phoneCode": "262",
+        "emojiU": "U+1F1F9 U+1F1EB",
+        "native": "Territoire des Terres australes et antarctiques fr",
+        "iso_code": "TF"
+      },
+      {
+        "id": "80",
+        "name": "Gabon",
+        "phoneCode": "241",
+        "emojiU": "U+1F1EC U+1F1E6",
+        "native": "Gabon",
+        "iso_code": "GA"
+      },
+      {
+        "id": "81",
+        "name": "Gambia The",
+        "phoneCode": "220",
+        "emojiU": "U+1F1EC U+1F1F2",
+        "native": "Gambia",
+        "iso_code": "GM"
+      },
+      {
+        "id": "82",
+        "name": "Georgia",
+        "phoneCode": "995",
+        "emojiU": "U+1F1EC U+1F1EA",
+        "native": "საქართველო",
+        "iso_code": "GE"
+      },
+      {
+        "id": "83",
+        "name": "Germany",
+        "phoneCode": "49",
+        "emojiU": "U+1F1E9 U+1F1EA",
+        "native": "Deutschland",
+        "iso_code": "DE"
+      },
+      {
+        "id": "84",
+        "name": "Ghana",
+        "phoneCode": "233",
+        "emojiU": "U+1F1EC U+1F1ED",
+        "native": "Ghana",
+        "iso_code": "GH"
+      },
+      {
+        "id": "85",
+        "name": "Gibraltar",
+        "phoneCode": "350",
+        "emojiU": "U+1F1EC U+1F1EE",
+        "native": "Gibraltar",
+        "iso_code": "GI"
+      },
+      {
+        "id": "86",
+        "name": "Greece",
+        "phoneCode": "30",
+        "emojiU": "U+1F1EC U+1F1F7",
+        "native": "Ελλάδα",
+        "iso_code": "GR"
+      },
+      {
+        "id": "87",
+        "name": "Greenland",
+        "phoneCode": "299",
+        "emojiU": "U+1F1EC U+1F1F1",
+        "native": "Kalaallit Nunaat",
+        "iso_code": "GL"
+      },
+      {
+        "id": "88",
+        "name": "Grenada",
+        "phoneCode": "+1-473",
+        "emojiU": "U+1F1EC U+1F1E9",
+        "native": "Grenada",
+        "iso_code": "GD"
+      },
+      {
+        "id": "89",
+        "name": "Guadeloupe",
+        "phoneCode": "590",
+        "emojiU": "U+1F1EC U+1F1F5",
+        "native": "Guadeloupe",
+        "iso_code": "GP"
+      },
+      {
+        "id": "90",
+        "name": "Guam",
+        "phoneCode": "+1-671",
+        "emojiU": "U+1F1EC U+1F1FA",
+        "native": "Guam",
+        "iso_code": "GU"
+      },
+      {
+        "id": "91",
+        "name": "Guatemala",
+        "phoneCode": "502",
+        "emojiU": "U+1F1EC U+1F1F9",
+        "native": "Guatemala",
+        "iso_code": "GT"
+      },
+      {
+        "id": "92",
+        "name": "Guernsey and Alderney",
+        "phoneCode": "+44-1481",
+        "emojiU": "U+1F1EC U+1F1EC",
+        "native": "Guernsey",
+        "iso_code": "GG"
+      },
+      {
+        "id": "93",
+        "name": "Guinea",
+        "phoneCode": "224",
+        "emojiU": "U+1F1EC U+1F1F3",
+        "native": "Guinée",
+        "iso_code": "GN"
+      },
+      {
+        "id": "94",
+        "name": "Guinea-Bissau",
+        "phoneCode": "245",
+        "emojiU": "U+1F1EC U+1F1FC",
+        "native": "Guiné-Bissau",
+        "iso_code": "GW"
+      },
+      {
+        "id": "95",
+        "name": "Guyana",
+        "phoneCode": "592",
+        "emojiU": "U+1F1EC U+1F1FE",
+        "native": "Guyana",
+        "iso_code": "GY"
+      },
+      {
+        "id": "96",
+        "name": "Haiti",
+        "phoneCode": "509",
+        "emojiU": "U+1F1ED U+1F1F9",
+        "native": "Haïti",
+        "iso_code": "HT"
+      },
+      {
+        "id": "97",
+        "name": "Heard Island and McDonald Islands",
+        "phoneCode": "672",
+        "emojiU": "U+1F1ED U+1F1F2",
+        "native": "Heard Island and McDonald Islands",
+        "iso_code": "HM"
+      },
+      {
+        "id": "98",
+        "name": "Honduras",
+        "phoneCode": "504",
+        "emojiU": "U+1F1ED U+1F1F3",
+        "native": "Honduras",
+        "iso_code": "HN"
+      },
+      {
+        "id": "99",
+        "name": "Hong Kong S.A.R.",
+        "phoneCode": "852",
+        "emojiU": "U+1F1ED U+1F1F0",
+        "native": "香港",
+        "iso_code": "HK"
+      },
+      {
+        "id": "100",
+        "name": "Hungary",
+        "phoneCode": "36",
+        "emojiU": "U+1F1ED U+1F1FA",
+        "native": "Magyarország",
+        "iso_code": "HU"
+      },
+      {
+        "id": "101",
+        "name": "Iceland",
+        "phoneCode": "354",
+        "emojiU": "U+1F1EE U+1F1F8",
+        "native": "Ísland",
+        "iso_code": "IS"
+      },
+      {
+        "id": "102",
+        "name": "India",
+        "phoneCode": "91",
+        "emojiU": "U+1F1EE U+1F1F3",
+        "native": "भारत",
+        "iso_code": "IN"
+      },
+      {
+        "id": "103",
+        "name": "Indonesia",
+        "phoneCode": "62",
+        "emojiU": "U+1F1EE U+1F1E9",
+        "native": "Indonesia",
+        "iso_code": "ID"
+      },
+      {
+        "id": "104",
+        "name": "Iran",
+        "phoneCode": "98",
+        "emojiU": "U+1F1EE U+1F1F7",
+        "native": "ایران",
+        "iso_code": "IR"
+      },
+      {
+        "id": "105",
+        "name": "Iraq",
+        "phoneCode": "964",
+        "emojiU": "U+1F1EE U+1F1F6",
+        "native": "العراق",
+        "iso_code": "IQ"
+      },
+      {
+        "id": "106",
+        "name": "Ireland",
+        "phoneCode": "353",
+        "emojiU": "U+1F1EE U+1F1EA",
+        "native": "Éire",
+        "iso_code": "IE"
+      },
+      {
+        "id": "107",
+        "name": "Israel",
+        "phoneCode": "972",
+        "emojiU": "U+1F1EE U+1F1F1",
+        "native": "יִשְׂרָאֵל",
+        "iso_code": "IL"
+      },
+      {
+        "id": "108",
+        "name": "Italy",
+        "phoneCode": "39",
+        "emojiU": "U+1F1EE U+1F1F9",
+        "native": "Italia",
+        "iso_code": "IT"
+      },
+      {
+        "id": "109",
+        "name": "Jamaica",
+        "phoneCode": "+1-876",
+        "emojiU": "U+1F1EF U+1F1F2",
+        "native": "Jamaica",
+        "iso_code": "JM"
+      },
+      {
+        "id": "110",
+        "name": "Japan",
+        "phoneCode": "81",
+        "emojiU": "U+1F1EF U+1F1F5",
+        "native": "日本",
+        "iso_code": "JP"
+      },
+      {
+        "id": "111",
+        "name": "Jersey",
+        "phoneCode": "+44-1534",
+        "emojiU": "U+1F1EF U+1F1EA",
+        "native": "Jersey",
+        "iso_code": "JE"
+      },
+      {
+        "id": "112",
+        "name": "Jordan",
+        "phoneCode": "962",
+        "emojiU": "U+1F1EF U+1F1F4",
+        "native": "الأردن",
+        "iso_code": "JO"
+      },
+      {
+        "id": "113",
+        "name": "Kazakhstan",
+        "phoneCode": "7",
+        "emojiU": "U+1F1F0 U+1F1FF",
+        "native": "Қазақстан",
+        "iso_code": "KZ"
+      },
+      {
+        "id": "114",
+        "name": "Kenya",
+        "phoneCode": "254",
+        "emojiU": "U+1F1F0 U+1F1EA",
+        "native": "Kenya",
+        "iso_code": "KE"
+      },
+      {
+        "id": "115",
+        "name": "Kiribati",
+        "phoneCode": "686",
+        "emojiU": "U+1F1F0 U+1F1EE",
+        "native": "Kiribati",
+        "iso_code": "KI"
+      },
+      {
+        "id": "116",
+        "name": "Kosovo",
+        "phoneCode": "383",
+        "emojiU": "U+1F1FD U+1F1F0",
+        "native": "Republika e Kosovës",
+        "iso_code": "XK"
+      },
+      {
+        "id": "117",
+        "name": "Kuwait",
+        "phoneCode": "965",
+        "emojiU": "U+1F1F0 U+1F1FC",
+        "native": "الكويت",
+        "iso_code": "KW"
+      },
+      {
+        "id": "118",
+        "name": "Kyrgyzstan",
+        "phoneCode": "996",
+        "emojiU": "U+1F1F0 U+1F1EC",
+        "native": "Кыргызстан",
+        "iso_code": "KG"
+      },
+      {
+        "id": "119",
+        "name": "Laos",
+        "phoneCode": "856",
+        "emojiU": "U+1F1F1 U+1F1E6",
+        "native": "ສປປລາວ",
+        "iso_code": "LA"
+      },
+      {
+        "id": "120",
+        "name": "Latvia",
+        "phoneCode": "371",
+        "emojiU": "U+1F1F1 U+1F1FB",
+        "native": "Latvija",
+        "iso_code": "LV"
+      },
+      {
+        "id": "121",
+        "name": "Lebanon",
+        "phoneCode": "961",
+        "emojiU": "U+1F1F1 U+1F1E7",
+        "native": "لبنان",
+        "iso_code": "LB"
+      },
+      {
+        "id": "122",
+        "name": "Lesotho",
+        "phoneCode": "266",
+        "emojiU": "U+1F1F1 U+1F1F8",
+        "native": "Lesotho",
+        "iso_code": "LS"
+      },
+      {
+        "id": "123",
+        "name": "Liberia",
+        "phoneCode": "231",
+        "emojiU": "U+1F1F1 U+1F1F7",
+        "native": "Liberia",
+        "iso_code": "LR"
+      },
+      {
+        "id": "124",
+        "name": "Libya",
+        "phoneCode": "218",
+        "emojiU": "U+1F1F1 U+1F1FE",
+        "native": "‏ليبيا",
+        "iso_code": "LY"
+      },
+      {
+        "id": "125",
+        "name": "Liechtenstein",
+        "phoneCode": "423",
+        "emojiU": "U+1F1F1 U+1F1EE",
+        "native": "Liechtenstein",
+        "iso_code": "LI"
+      },
+      {
+        "id": "126",
+        "name": "Lithuania",
+        "phoneCode": "370",
+        "emojiU": "U+1F1F1 U+1F1F9",
+        "native": "Lietuva",
+        "iso_code": "LT"
+      },
+      {
+        "id": "127",
+        "name": "Luxembourg",
+        "phoneCode": "352",
+        "emojiU": "U+1F1F1 U+1F1FA",
+        "native": "Luxembourg",
+        "iso_code": "LU"
+      },
+      {
+        "id": "128",
+        "name": "Macau S.A.R.",
+        "phoneCode": "853",
+        "emojiU": "U+1F1F2 U+1F1F4",
+        "native": "澳門",
+        "iso_code": "MO"
+      },
+      {
+        "id": "129",
+        "name": "Madagascar",
+        "phoneCode": "261",
+        "emojiU": "U+1F1F2 U+1F1EC",
+        "native": "Madagasikara",
+        "iso_code": "MG"
+      },
+      {
+        "id": "130",
+        "name": "Malawi",
+        "phoneCode": "265",
+        "emojiU": "U+1F1F2 U+1F1FC",
+        "native": "Malawi",
+        "iso_code": "MW"
+      },
+      {
+        "id": "131",
+        "name": "Malaysia",
+        "phoneCode": "60",
+        "emojiU": "U+1F1F2 U+1F1FE",
+        "native": "Malaysia",
+        "iso_code": "MY"
+      },
+      {
+        "id": "132",
+        "name": "Maldives",
+        "phoneCode": "960",
+        "emojiU": "U+1F1F2 U+1F1FB",
+        "native": "Maldives",
+        "iso_code": "MV"
+      },
+      {
+        "id": "133",
+        "name": "Mali",
+        "phoneCode": "223",
+        "emojiU": "U+1F1F2 U+1F1F1",
+        "native": "Mali",
+        "iso_code": "ML"
+      },
+      {
+        "id": "134",
+        "name": "Malta",
+        "phoneCode": "356",
+        "emojiU": "U+1F1F2 U+1F1F9",
+        "native": "Malta",
+        "iso_code": "MT"
+      },
+      {
+        "id": "135",
+        "name": "Man (Isle of)",
+        "phoneCode": "+44-1624",
+        "emojiU": "U+1F1EE U+1F1F2",
+        "native": "Isle of Man",
+        "iso_code": "IM"
+      },
+      {
+        "id": "136",
+        "name": "Marshall Islands",
+        "phoneCode": "692",
+        "emojiU": "U+1F1F2 U+1F1ED",
+        "native": "M̧ajeļ",
+        "iso_code": "MH"
+      },
+      {
+        "id": "137",
+        "name": "Martinique",
+        "phoneCode": "596",
+        "emojiU": "U+1F1F2 U+1F1F6",
+        "native": "Martinique",
+        "iso_code": "MQ"
+      },
+      {
+        "id": "138",
+        "name": "Mauritania",
+        "phoneCode": "222",
+        "emojiU": "U+1F1F2 U+1F1F7",
+        "native": "موريتانيا",
+        "iso_code": "MR"
+      },
+      {
+        "id": "139",
+        "name": "Mauritius",
+        "phoneCode": "230",
+        "emojiU": "U+1F1F2 U+1F1FA",
+        "native": "Maurice",
+        "iso_code": "MU"
+      },
+      {
+        "id": "140",
+        "name": "Mayotte",
+        "phoneCode": "262",
+        "emojiU": "U+1F1FE U+1F1F9",
+        "native": "Mayotte",
+        "iso_code": "YT"
+      },
+      {
+        "id": "141",
+        "name": "Mexico",
+        "phoneCode": "52",
+        "emojiU": "U+1F1F2 U+1F1FD",
+        "native": "México",
+        "iso_code": "MX"
+      },
+      {
+        "id": "142",
+        "name": "Micronesia",
+        "phoneCode": "691",
+        "emojiU": "U+1F1EB U+1F1F2",
+        "native": "Micronesia",
+        "iso_code": "FM"
+      },
+      {
+        "id": "143",
+        "name": "Moldova",
+        "phoneCode": "373",
+        "emojiU": "U+1F1F2 U+1F1E9",
+        "native": "Moldova",
+        "iso_code": "MD"
+      },
+      {
+        "id": "144",
+        "name": "Monaco",
+        "phoneCode": "377",
+        "emojiU": "U+1F1F2 U+1F1E8",
+        "native": "Monaco",
+        "iso_code": "MC"
+      },
+      {
+        "id": "145",
+        "name": "Mongolia",
+        "phoneCode": "976",
+        "emojiU": "U+1F1F2 U+1F1F3",
+        "native": "Монгол улс",
+        "iso_code": "MN"
+      },
+      {
+        "id": "146",
+        "name": "Montenegro",
+        "phoneCode": "382",
+        "emojiU": "U+1F1F2 U+1F1EA",
+        "native": "Црна Гора",
+        "iso_code": "ME"
+      },
+      {
+        "id": "147",
+        "name": "Montserrat",
+        "phoneCode": "+1-664",
+        "emojiU": "U+1F1F2 U+1F1F8",
+        "native": "Montserrat",
+        "iso_code": "MS"
+      },
+      {
+        "id": "148",
+        "name": "Morocco",
+        "phoneCode": "212",
+        "emojiU": "U+1F1F2 U+1F1E6",
+        "native": "المغرب",
+        "iso_code": "MA"
+      },
+      {
+        "id": "149",
+        "name": "Mozambique",
+        "phoneCode": "258",
+        "emojiU": "U+1F1F2 U+1F1FF",
+        "native": "Moçambique",
+        "iso_code": "MZ"
+      },
+      {
+        "id": "150",
+        "name": "Myanmar",
+        "phoneCode": "95",
+        "emojiU": "U+1F1F2 U+1F1F2",
+        "native": "မြန်မာ",
+        "iso_code": "MM"
+      },
+      {
+        "id": "151",
+        "name": "Namibia",
+        "phoneCode": "264",
+        "emojiU": "U+1F1F3 U+1F1E6",
+        "native": "Namibia",
+        "iso_code": "NA"
+      },
+      {
+        "id": "152",
+        "name": "Nauru",
+        "phoneCode": "674",
+        "emojiU": "U+1F1F3 U+1F1F7",
+        "native": "Nauru",
+        "iso_code": "NR"
+      },
+      {
+        "id": "153",
+        "name": "Nepal",
+        "phoneCode": "977",
+        "emojiU": "U+1F1F3 U+1F1F5",
+        "native": "नपल",
+        "iso_code": "NP"
+      },
+      {
+        "id": "154",
+        "name": "Netherlands",
+        "phoneCode": "31",
+        "emojiU": "U+1F1F3 U+1F1F1",
+        "native": "Nederland",
+        "iso_code": "NL"
+      },
+      {
+        "id": "155",
+        "name": "New Caledonia",
+        "phoneCode": "687",
+        "emojiU": "U+1F1F3 U+1F1E8",
+        "native": "Nouvelle-Calédonie",
+        "iso_code": "NC"
+      },
+      {
+        "id": "156",
+        "name": "New Zealand",
+        "phoneCode": "64",
+        "emojiU": "U+1F1F3 U+1F1FF",
+        "native": "New Zealand",
+        "iso_code": "NZ"
+      },
+      {
+        "id": "157",
+        "name": "Nicaragua",
+        "phoneCode": "505",
+        "emojiU": "U+1F1F3 U+1F1EE",
+        "native": "Nicaragua",
+        "iso_code": "NI"
+      },
+      {
+        "id": "158",
+        "name": "Niger",
+        "phoneCode": "227",
+        "emojiU": "U+1F1F3 U+1F1EA",
+        "native": "Niger",
+        "iso_code": "NE"
+      },
+      {
+        "id": "159",
+        "name": "Nigeria",
+        "phoneCode": "234",
+        "emojiU": "U+1F1F3 U+1F1EC",
+        "native": "Nigeria",
+        "iso_code": "NG"
+      },
+      {
+        "id": "160",
+        "name": "Niue",
+        "phoneCode": "683",
+        "emojiU": "U+1F1F3 U+1F1FA",
+        "native": "Niuē",
+        "iso_code": "NU"
+      },
+      {
+        "id": "161",
+        "name": "Norfolk Island",
+        "phoneCode": "672",
+        "emojiU": "U+1F1F3 U+1F1EB",
+        "native": "Norfolk Island",
+        "iso_code": "NF"
+      },
+      {
+        "id": "162",
+        "name": "North Korea",
+        "phoneCode": "850",
+        "emojiU": "U+1F1F0 U+1F1F5",
+        "native": "북한",
+        "iso_code": "KP"
+      },
+      {
+        "id": "163",
+        "name": "North Macedonia",
+        "phoneCode": "389",
+        "emojiU": "U+1F1F2 U+1F1F0",
+        "native": "Северна Македонија",
+        "iso_code": "MK"
+      },
+      {
+        "id": "164",
+        "name": "Northern Mariana Islands",
+        "phoneCode": "+1-670",
+        "emojiU": "U+1F1F2 U+1F1F5",
+        "native": "Northern Mariana Islands",
+        "iso_code": "MP"
+      },
+      {
+        "id": "165",
+        "name": "Norway",
+        "phoneCode": "47",
+        "emojiU": "U+1F1F3 U+1F1F4",
+        "native": "Norge",
+        "iso_code": "NO"
+      },
+      {
+        "id": "166",
+        "name": "Oman",
+        "phoneCode": "968",
+        "emojiU": "U+1F1F4 U+1F1F2",
+        "native": "عمان",
+        "iso_code": "OM"
+      },
+      {
+        "id": "167",
+        "name": "Pakistan",
+        "phoneCode": "92",
+        "emojiU": "U+1F1F5 U+1F1F0",
+        "native": "Pakistan",
+        "iso_code": "PK"
+      },
+      {
+        "id": "168",
+        "name": "Palau",
+        "phoneCode": "680",
+        "emojiU": "U+1F1F5 U+1F1FC",
+        "native": "Palau",
+        "iso_code": "PW"
+      },
+      {
+        "id": "169",
+        "name": "Palestinian Territory Occupied",
+        "phoneCode": "970",
+        "emojiU": "U+1F1F5 U+1F1F8",
+        "native": "فلسطين",
+        "iso_code": "PS"
+      },
+      {
+        "id": "170",
+        "name": "Panama",
+        "phoneCode": "507",
+        "emojiU": "U+1F1F5 U+1F1E6",
+        "native": "Panamá",
+        "iso_code": "PA"
+      },
+      {
+        "id": "171",
+        "name": "Papua new Guinea",
+        "phoneCode": "675",
+        "emojiU": "U+1F1F5 U+1F1EC",
+        "native": "Papua Niugini",
+        "iso_code": "PG"
+      },
+      {
+        "id": "172",
+        "name": "Paraguay",
+        "phoneCode": "595",
+        "emojiU": "U+1F1F5 U+1F1FE",
+        "native": "Paraguay",
+        "iso_code": "PY"
+      },
+      {
+        "id": "173",
+        "name": "Peru",
+        "phoneCode": "51",
+        "emojiU": "U+1F1F5 U+1F1EA",
+        "native": "Perú",
+        "iso_code": "PE"
+      },
+      {
+        "id": "174",
+        "name": "Philippines",
+        "phoneCode": "63",
+        "emojiU": "U+1F1F5 U+1F1ED",
+        "native": "Pilipinas",
+        "iso_code": "PH"
+      },
+      {
+        "id": "175",
+        "name": "Pitcairn Island",
+        "phoneCode": "870",
+        "emojiU": "U+1F1F5 U+1F1F3",
+        "native": "Pitcairn Islands",
+        "iso_code": "PN"
+      },
+      {
+        "id": "176",
+        "name": "Poland",
+        "phoneCode": "48",
+        "emojiU": "U+1F1F5 U+1F1F1",
+        "native": "Polska",
+        "iso_code": "PL"
+      },
+      {
+        "id": "177",
+        "name": "Portugal",
+        "phoneCode": "351",
+        "emojiU": "U+1F1F5 U+1F1F9",
+        "native": "Portugal",
+        "iso_code": "PT"
+      },
+      {
+        "id": "178",
+        "name": "Puerto Rico",
+        "phoneCode": "+1-787 and 1-939",
+        "emojiU": "U+1F1F5 U+1F1F7",
+        "native": "Puerto Rico",
+        "iso_code": "PR"
+      },
+      {
+        "id": "179",
+        "name": "Qatar",
+        "phoneCode": "974",
+        "emojiU": "U+1F1F6 U+1F1E6",
+        "native": "قطر",
+        "iso_code": "QA"
+      },
+      {
+        "id": "180",
+        "name": "Reunion",
+        "phoneCode": "262",
+        "emojiU": "U+1F1F7 U+1F1EA",
+        "native": "La Réunion",
+        "iso_code": "RE"
+      },
+      {
+        "id": "181",
+        "name": "Romania",
+        "phoneCode": "40",
+        "emojiU": "U+1F1F7 U+1F1F4",
+        "native": "România",
+        "iso_code": "RO"
+      },
+      {
+        "id": "182",
+        "name": "Russia",
+        "phoneCode": "7",
+        "emojiU": "U+1F1F7 U+1F1FA",
+        "native": "Россия",
+        "iso_code": "RU"
+      },
+      {
+        "id": "183",
+        "name": "Rwanda",
+        "phoneCode": "250",
+        "emojiU": "U+1F1F7 U+1F1FC",
+        "native": "Rwanda",
+        "iso_code": "RW"
+      },
+      {
+        "id": "184",
+        "name": "Saint Helena",
+        "phoneCode": "290",
+        "emojiU": "U+1F1F8 U+1F1ED",
+        "native": "Saint Helena",
+        "iso_code": "SH"
+      },
+      {
+        "id": "185",
+        "name": "Saint Kitts And Nevis",
+        "phoneCode": "+1-869",
+        "emojiU": "U+1F1F0 U+1F1F3",
+        "native": "Saint Kitts and Nevis",
+        "iso_code": "KN"
+      },
+      {
+        "id": "186",
+        "name": "Saint Lucia",
+        "phoneCode": "+1-758",
+        "emojiU": "U+1F1F1 U+1F1E8",
+        "native": "Saint Lucia",
+        "iso_code": "LC"
+      },
+      {
+        "id": "187",
+        "name": "Saint Pierre and Miquelon",
+        "phoneCode": "508",
+        "emojiU": "U+1F1F5 U+1F1F2",
+        "native": "Saint-Pierre-et-Miquelon",
+        "iso_code": "PM"
+      },
+      {
+        "id": "188",
+        "name": "Saint Vincent And The Grenadines",
+        "phoneCode": "+1-784",
+        "emojiU": "U+1F1FB U+1F1E8",
+        "native": "Saint Vincent and the Grenadines",
+        "iso_code": "VC"
+      },
+      {
+        "id": "189",
+        "name": "Saint-Barthelemy",
+        "phoneCode": "590",
+        "emojiU": "U+1F1E7 U+1F1F1",
+        "native": "Saint-Barthélemy",
+        "iso_code": "BL"
+      },
+      {
+        "id": "190",
+        "name": "Saint-Martin (French part)",
+        "phoneCode": "590",
+        "emojiU": "U+1F1F2 U+1F1EB",
+        "native": "Saint-Martin",
+        "iso_code": "MF"
+      },
+      {
+        "id": "191",
+        "name": "Samoa",
+        "phoneCode": "685",
+        "emojiU": "U+1F1FC U+1F1F8",
+        "native": "Samoa",
+        "iso_code": "WS"
+      },
+      {
+        "id": "192",
+        "name": "San Marino",
+        "phoneCode": "378",
+        "emojiU": "U+1F1F8 U+1F1F2",
+        "native": "San Marino",
+        "iso_code": "SM"
+      },
+      {
+        "id": "193",
+        "name": "Sao Tome and Principe",
+        "phoneCode": "239",
+        "emojiU": "U+1F1F8 U+1F1F9",
+        "native": "São Tomé e Príncipe",
+        "iso_code": "ST"
+      },
+      {
+        "id": "194",
+        "name": "Saudi Arabia",
+        "phoneCode": "966",
+        "emojiU": "U+1F1F8 U+1F1E6",
+        "native": "المملكة العربية السعودية",
+        "iso_code": "SA"
+      },
+      {
+        "id": "195",
+        "name": "Senegal",
+        "phoneCode": "221",
+        "emojiU": "U+1F1F8 U+1F1F3",
+        "native": "Sénégal",
+        "iso_code": "SN"
+      },
+      {
+        "id": "196",
+        "name": "Serbia",
+        "phoneCode": "381",
+        "emojiU": "U+1F1F7 U+1F1F8",
+        "native": "Србија",
+        "iso_code": "RS"
+      },
+      {
+        "id": "197",
+        "name": "Seychelles",
+        "phoneCode": "248",
+        "emojiU": "U+1F1F8 U+1F1E8",
+        "native": "Seychelles",
+        "iso_code": "SC"
+      },
+      {
+        "id": "198",
+        "name": "Sierra Leone",
+        "phoneCode": "232",
+        "emojiU": "U+1F1F8 U+1F1F1",
+        "native": "Sierra Leone",
+        "iso_code": "SL"
+      },
+      {
+        "id": "199",
+        "name": "Singapore",
+        "phoneCode": "65",
+        "emojiU": "U+1F1F8 U+1F1EC",
+        "native": "Singapore",
+        "iso_code": "SG"
+      },
+      {
+        "id": "200",
+        "name": "Sint Maarten (Dutch part)",
+        "phoneCode": "1721",
+        "emojiU": "U+1F1F8 U+1F1FD",
+        "native": "Sint Maarten",
+        "iso_code": "SX"
+      },
+      {
+        "id": "201",
+        "name": "Slovakia",
+        "phoneCode": "421",
+        "emojiU": "U+1F1F8 U+1F1F0",
+        "native": "Slovensko",
+        "iso_code": "SK"
+      },
+      {
+        "id": "202",
+        "name": "Slovenia",
+        "phoneCode": "386",
+        "emojiU": "U+1F1F8 U+1F1EE",
+        "native": "Slovenija",
+        "iso_code": "SI"
+      },
+      {
+        "id": "203",
+        "name": "Solomon Islands",
+        "phoneCode": "677",
+        "emojiU": "U+1F1F8 U+1F1E7",
+        "native": "Solomon Islands",
+        "iso_code": "SB"
+      },
+      {
+        "id": "204",
+        "name": "Somalia",
+        "phoneCode": "252",
+        "emojiU": "U+1F1F8 U+1F1F4",
+        "native": "Soomaaliya",
+        "iso_code": "SO"
+      },
+      {
+        "id": "205",
+        "name": "South Africa",
+        "phoneCode": "27",
+        "emojiU": "U+1F1FF U+1F1E6",
+        "native": "South Africa",
+        "iso_code": "ZA"
+      },
+      {
+        "id": "206",
+        "name": "South Georgia",
+        "phoneCode": "500",
+        "emojiU": "U+1F1EC U+1F1F8",
+        "native": "South Georgia",
+        "iso_code": "GS"
+      },
+      {
+        "id": "207",
+        "name": "South Korea",
+        "phoneCode": "82",
+        "emojiU": "U+1F1F0 U+1F1F7",
+        "native": "대한민국",
+        "iso_code": "KR"
+      },
+      {
+        "id": "208",
+        "name": "South Sudan",
+        "phoneCode": "211",
+        "emojiU": "U+1F1F8 U+1F1F8",
+        "native": "South Sudan",
+        "iso_code": "SS"
+      },
+      {
+        "id": "209",
+        "name": "Spain",
+        "phoneCode": "34",
+        "emojiU": "U+1F1EA U+1F1F8",
+        "native": "España",
+        "iso_code": "ES"
+      },
+      {
+        "id": "210",
+        "name": "Sri Lanka",
+        "phoneCode": "94",
+        "emojiU": "U+1F1F1 U+1F1F0",
+        "native": "śrī laṃkāva",
+        "iso_code": "LK"
+      },
+      {
+        "id": "211",
+        "name": "Sudan",
+        "phoneCode": "249",
+        "emojiU": "U+1F1F8 U+1F1E9",
+        "native": "السودان",
+        "iso_code": "SD"
+      },
+      {
+        "id": "212",
+        "name": "Suriname",
+        "phoneCode": "597",
+        "emojiU": "U+1F1F8 U+1F1F7",
+        "native": "Suriname",
+        "iso_code": "SR"
+      },
+      {
+        "id": "213",
+        "name": "Svalbard And Jan Mayen Islands",
+        "phoneCode": "47",
+        "emojiU": "U+1F1F8 U+1F1EF",
+        "native": "Svalbard og Jan Mayen",
+        "iso_code": "SJ"
+      },
+      {
+        "id": "214",
+        "name": "Swaziland",
+        "phoneCode": "268",
+        "emojiU": "U+1F1F8 U+1F1FF",
+        "native": "Swaziland",
+        "iso_code": "SZ"
+      },
+      {
+        "id": "215",
+        "name": "Sweden",
+        "phoneCode": "46",
+        "emojiU": "U+1F1F8 U+1F1EA",
+        "native": "Sverige",
+        "iso_code": "SE"
+      },
+      {
+        "id": "216",
+        "name": "Switzerland",
+        "phoneCode": "41",
+        "emojiU": "U+1F1E8 U+1F1ED",
+        "native": "Schweiz",
+        "iso_code": "CH"
+      },
+      {
+        "id": "217",
+        "name": "Syria",
+        "phoneCode": "963",
+        "emojiU": "U+1F1F8 U+1F1FE",
+        "native": "سوريا",
+        "iso_code": "SY"
+      },
+      {
+        "id": "218",
+        "name": "Taiwan",
+        "phoneCode": "886",
+        "emojiU": "U+1F1F9 U+1F1FC",
+        "native": "臺灣",
+        "iso_code": "TW"
+      },
+      {
+        "id": "219",
+        "name": "Tajikistan",
+        "phoneCode": "992",
+        "emojiU": "U+1F1F9 U+1F1EF",
+        "native": "Тоҷикистон",
+        "iso_code": "TJ"
+      },
+      {
+        "id": "220",
+        "name": "Tanzania",
+        "phoneCode": "255",
+        "emojiU": "U+1F1F9 U+1F1FF",
+        "native": "Tanzania",
+        "iso_code": "TZ"
+      },
+      {
+        "id": "221",
+        "name": "Thailand",
+        "phoneCode": "66",
+        "emojiU": "U+1F1F9 U+1F1ED",
+        "native": "ประเทศไทย",
+        "iso_code": "TH"
+      },
+      {
+        "id": "222",
+        "name": "The Bahamas",
+        "phoneCode": "+1-242",
+        "emojiU": "U+1F1E7 U+1F1F8",
+        "native": "Bahamas",
+        "iso_code": "BS"
+      },
+      {
+        "id": "223",
+        "name": "Togo",
+        "phoneCode": "228",
+        "emojiU": "U+1F1F9 U+1F1EC",
+        "native": "Togo",
+        "iso_code": "TG"
+      },
+      {
+        "id": "224",
+        "name": "Tokelau",
+        "phoneCode": "690",
+        "emojiU": "U+1F1F9 U+1F1F0",
+        "native": "Tokelau",
+        "iso_code": "TK"
+      },
+      {
+        "id": "225",
+        "name": "Tonga",
+        "phoneCode": "676",
+        "emojiU": "U+1F1F9 U+1F1F4",
+        "native": "Tonga",
+        "iso_code": "TO"
+      },
+      {
+        "id": "226",
+        "name": "Trinidad And Tobago",
+        "phoneCode": "+1-868",
+        "emojiU": "U+1F1F9 U+1F1F9",
+        "native": "Trinidad and Tobago",
+        "iso_code": "TT"
+      },
+      {
+        "id": "227",
+        "name": "Tunisia",
+        "phoneCode": "216",
+        "emojiU": "U+1F1F9 U+1F1F3",
+        "native": "تونس",
+        "iso_code": "TN"
+      },
+      {
+        "id": "228",
+        "name": "Turkey",
+        "phoneCode": "90",
+        "emojiU": "U+1F1F9 U+1F1F7",
+        "native": "Türkiye",
+        "iso_code": "TR"
+      },
+      {
+        "id": "229",
+        "name": "Turkmenistan",
+        "phoneCode": "993",
+        "emojiU": "U+1F1F9 U+1F1F2",
+        "native": "Türkmenistan",
+        "iso_code": "TM"
+      },
+      {
+        "id": "230",
+        "name": "Turks And Caicos Islands",
+        "phoneCode": "+1-649",
+        "emojiU": "U+1F1F9 U+1F1E8",
+        "native": "Turks and Caicos Islands",
+        "iso_code": "TC"
+      },
+      {
+        "id": "231",
+        "name": "Tuvalu",
+        "phoneCode": "688",
+        "emojiU": "U+1F1F9 U+1F1FB",
+        "native": "Tuvalu",
+        "iso_code": "TV"
+      },
+      {
+        "id": "232",
+        "name": "Uganda",
+        "phoneCode": "256",
+        "emojiU": "U+1F1FA U+1F1EC",
+        "native": "Uganda",
+        "iso_code": "UG"
+      },
+      {
+        "id": "233",
+        "name": "Ukraine",
+        "phoneCode": "380",
+        "emojiU": "U+1F1FA U+1F1E6",
+        "native": "Україна",
+        "iso_code": "UA"
+      },
+      {
+        "id": "234",
+        "name": "United Arab Emirates",
+        "phoneCode": "971",
+        "emojiU": "U+1F1E6 U+1F1EA",
+        "native": "دولة الإمارات العربية المتحدة",
+        "iso_code": "AE"
+      },
+      {
+        "id": "235",
+        "name": "United Kingdom",
+        "phoneCode": "44",
+        "emojiU": "U+1F1EC U+1F1E7",
+        "native": "United Kingdom",
+        "iso_code": "GB"
+      },
+      {
+        "id": "236",
+        "name": "United States",
+        "phoneCode": "1",
+        "emojiU": "U+1F1FA U+1F1F8",
+        "native": "United States",
+        "iso_code": "US"
+      },
+      {
+        "id": "237",
+        "name": "United States Minor Outlying Islands",
+        "phoneCode": "1",
+        "emojiU": "U+1F1FA U+1F1F2",
+        "native": "United States Minor Outlying Islands",
+        "iso_code": "UM"
+      },
+      {
+        "id": "238",
+        "name": "Uruguay",
+        "phoneCode": "598",
+        "emojiU": "U+1F1FA U+1F1FE",
+        "native": "Uruguay",
+        "iso_code": "UY"
+      },
+      {
+        "id": "239",
+        "name": "Uzbekistan",
+        "phoneCode": "998",
+        "emojiU": "U+1F1FA U+1F1FF",
+        "native": "O‘zbekiston",
+        "iso_code": "UZ"
+      },
+      {
+        "id": "240",
+        "name": "Vanuatu",
+        "phoneCode": "678",
+        "emojiU": "U+1F1FB U+1F1FA",
+        "native": "Vanuatu",
+        "iso_code": "VU"
+      },
+      {
+        "id": "241",
+        "name": "Vatican City State (Holy See)",
+        "phoneCode": "379",
+        "emojiU": "U+1F1FB U+1F1E6",
+        "native": "Vaticano",
+        "iso_code": "VA"
+      },
+      {
+        "id": "242",
+        "name": "Venezuela",
+        "phoneCode": "58",
+        "emojiU": "U+1F1FB U+1F1EA",
+        "native": "Venezuela",
+        "iso_code": "VE"
+      },
+      {
+        "id": "243",
+        "name": "Vietnam",
+        "phoneCode": "84",
+        "emojiU": "U+1F1FB U+1F1F3",
+        "native": "Việt Nam",
+        "iso_code": "VN"
+      },
+      {
+        "id": "244",
+        "name": "Virgin Islands (British)",
+        "phoneCode": "+1-284",
+        "emojiU": "U+1F1FB U+1F1EC",
+        "native": "British Virgin Islands",
+        "iso_code": "VG"
+      },
+      {
+        "id": "245",
+        "name": "Virgin Islands (US)",
+        "phoneCode": "+1-340",
+        "emojiU": "U+1F1FB U+1F1EE",
+        "native": "United States Virgin Islands",
+        "iso_code": "VI"
+      },
+      {
+        "id": "246",
+        "name": "Wallis And Futuna Islands",
+        "phoneCode": "681",
+        "emojiU": "U+1F1FC U+1F1EB",
+        "native": "Wallis et Futuna",
+        "iso_code": "WF"
+      },
+      {
+        "id": "247",
+        "name": "Western Sahara",
+        "phoneCode": "212",
+        "emojiU": "U+1F1EA U+1F1ED",
+        "native": "الصحراء الغربية",
+        "iso_code": "EH"
+      },
+      {
+        "id": "248",
+        "name": "Yemen",
+        "phoneCode": "967",
+        "emojiU": "U+1F1FE U+1F1EA",
+        "native": "اليَمَن",
+        "iso_code": "YE"
+      },
+      {
+        "id": "249",
+        "name": "Zambia",
+        "phoneCode": "260",
+        "emojiU": "U+1F1FF U+1F1F2",
+        "native": "Zambia",
+        "iso_code": "ZM"
+      },
+      {
+        "id": "250",
+        "name": "Zimbabwe",
+        "phoneCode": "263",
+        "emojiU": "U+1F1FF U+1F1FC",
+        "native": "Zimbabwe",
+        "iso_code": "ZW"
+      }
+    ]
+  }
+]

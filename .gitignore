@@ -1,0 +1,14 @@
+db.sqlite3
+media/
+.env
+*.pyc
+.venv/
+/venv
+venv
+venv/
+inspector.log
+
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+celerybeat-schedule
